@@ -22,7 +22,6 @@ namespace Vendor
         Vendor.BusinessLayer.AlertBL m_oAlert;
 
 
-
         public frmAlert()
         {
             InitializeComponent();
