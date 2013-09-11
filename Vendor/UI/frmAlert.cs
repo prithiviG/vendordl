@@ -22,11 +22,18 @@ namespace Vendor
         Vendor.BusinessLayer.AlertBL m_oAlert;
 
 
+
         public frmAlert()
         {
             //InitializeComponent();
             m_oAlert = new Vendor.BusinessLayer.AlertBL();
         }
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
         public void Execute()
         {
             this.ShowDialog();
@@ -122,17 +129,7 @@ namespace Vendor
         }
 
        
-
-
-      
-
-      
-      
-
        
 
-        
-
-       
     }
 }
