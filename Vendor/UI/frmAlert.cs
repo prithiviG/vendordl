@@ -122,9 +122,5 @@ namespace Vendor
         {
             toolStripADays.EditValue = 0;
         }
-
-       
-       
-
     }
 }
