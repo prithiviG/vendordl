@@ -1,0 +1,460 @@
+D:\Vendor\Vendor\Vendor\bin\Debug\Vendor.exe
+D:\Vendor\Vendor\Vendor\bin\Debug\Vendor.pdb
+D:\Vendor\Vendor\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.csproj.GenerateResource.Cache
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.exe
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.pdb
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmVendor.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmSetup.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\Vendor\Vendor\Vendor\obj\Debug\Vendor.frmFilter.resources
+E:\Vendor2405\Vendor\obj\Debug\Vendor.exe
+E:\Vendor2405\Vendor\obj\Debug\Vendor.pdb
+D:\Vendor\Vendor\obj\Debug\Vendor.pdb
+D:\Vendor\Vendor\bin\Debug\Vendor.pdb
+D:\Vendor\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\Vendor\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmService.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\Vendor\Vendor\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+D:\Vendor\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\Vendor\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\Vendor\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\Vendor\Vendor\bin\Debug\Vendor.exe
+D:\Vendor\Vendor\bin\Debug\Qualifier.dll
+D:\Vendor\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\Vendor\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\Vendor\Vendor\bin\Debug\Vendor.dll
+D:\Vendor\Vendor\obj\Debug\Vendor.dll.licenses
+D:\Vendor\Vendor\obj\Debug\Vendor.dll
+D:\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+D:\Vendor DLL\Vendor\bin\Debug\Vendor.exe
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.exe.licenses
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.exe
+D:\.Net Sources\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\Source\DotNet\Vendor DLL\Vendor\bin\Debug\Vendor.dll
+D:\Source\DotNet\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.dll.licenses
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.dll
+D:\Source\DotNet\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\.Net Sources\Vendor DLL\Vendor\bin\Debug\Vendor.exe
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.exe.licenses
+D:\.Net Sources\Vendor DLL\Vendor\obj\Debug\Vendor.exe
+E:\Vendor DLL\Vendor\bin\Debug\Vendor.exe
+E:\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+E:\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+E:\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+E:\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.exe.licenses
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.exe
+E:\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\.Net Sources\Vendor DLL\Vendor\bin\Debug\Vendor.dll
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\bin\Debug\Vendor.dll
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.dll.licenses
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.dll
+E:\Mugesh_Issue\Vendor Dll_withVMEditApp\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+E:\Mugesh_Issue\Vendor DLL\Vendor\bin\Debug\Vendor.dll
+E:\Mugesh_Issue\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmResourceGroup.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.dll.licenses
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.dll
+E:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.exe
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\Source .NET\Vendor DLL\Vendor\bin\Debug\Vendor.exe
+D:\Source .NET\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmResourceGroup.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\Source .NET\Vendor DLL\Vendor\obj\Debug\Vendor.exe.licenses
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmResourceGroup.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+D:\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\bin\Debug\Vendor.dll
+D:\Mugesh_Issue\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmResourceGroup.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorCodeSetup.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.dll.licenses
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.dll
+D:\Mugesh_Issue\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+D:\c#\Vendor DLL\Vendor\bin\Debug\Vendor.exe
+D:\c#\Vendor DLL\Vendor\bin\Debug\Vendor.pdb
+D:\c#\Vendor DLL\Vendor\bin\Debug\Vendor.dll
+D:\c#\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmResourceGroup.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorCodeSetup.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+D:\c#\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+D:\c#\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.exe.licenses
+D:\c#\Vendor DLL\Vendor\obj\Debug\Vendor.exe
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.exe
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.pdb
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmAlert.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmBranch.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmCertificate.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmCheckList.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityEntry.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmCityMaster.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmCountryMaster.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmEnclosure.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmExperience.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmResourceGroup.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmService.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceGroup.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmServiceMaster.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmSupplierVenPickList.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmTransportMaster.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmTypeSetup.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicle.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmVehicleEntry.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorCodeSetup.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorFilter.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmGrade.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmMain.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegisterStatus.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegistration.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmRegTrans.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmReport.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmResource.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateEntry.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmStateMaster.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmStatusEntry.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorImport.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.frmVendorMain.resources
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Vendor DLL\Vendor\obj\Debug\Vendor.exe.licenses

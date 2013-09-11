@@ -25,13 +25,10 @@ namespace Vendor
 
         public frmAlert()
         {
-            //InitializeComponent();
+            InitializeComponent();
             m_oAlert = new Vendor.BusinessLayer.AlertBL();
         }
-        private void simpleButton1_Click(object sender, EventArgs e)
-        {
-
-        }
+       
 
 
         public void Execute()
