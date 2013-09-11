@@ -36,7 +36,7 @@ namespace Vendor
 
         public void Execute()
         {
-            this.ShowDialog();
+            //this.ShowDialog();
         }
         private void toolStripExit_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
