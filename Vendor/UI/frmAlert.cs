@@ -24,7 +24,7 @@ namespace Vendor
 
         public frmAlert()
         {
-            InitializeComponent();
+            //InitializeComponent();
             m_oAlert = new Vendor.BusinessLayer.AlertBL();
         }
         public void Execute()
