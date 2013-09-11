@@ -21,7 +21,6 @@ namespace Vendor
         DataTable m_tAlert;
         Vendor.BusinessLayer.AlertBL m_oAlert;
 
-
         public frmAlert()
         {
             InitializeComponent();
