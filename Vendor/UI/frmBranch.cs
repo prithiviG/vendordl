@@ -25,7 +25,8 @@ namespace Vendor
         DataTable dtContact;
         public frmBranch()
         {
-            InitializeComponent();
+        //    InitializeComponent();
+
             m_oCity = new Vendor.BusinessLayer.CityBL();
             m_oBranch = new Vendor.BusinessLayer.BranchBL();
         }
