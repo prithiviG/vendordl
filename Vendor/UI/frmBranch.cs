@@ -200,6 +200,11 @@ namespace Vendor
 
         }
 
+        private void textEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
       
     }
 }
