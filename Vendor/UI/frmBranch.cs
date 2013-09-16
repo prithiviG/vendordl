@@ -25,8 +25,7 @@ namespace Vendor
         DataTable dtContact;
         public frmBranch()
         {
-        //    InitializeComponent();
-
+            InitializeComponent();
             m_oCity = new Vendor.BusinessLayer.CityBL();
             m_oBranch = new Vendor.BusinessLayer.BranchBL();
         }
@@ -194,6 +193,16 @@ namespace Vendor
                 m_bOK = true;
                 this.Close();
             }
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
 
       
