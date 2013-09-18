@@ -26,10 +26,7 @@ namespace Vendor
             frmM = _frmM;
             this.ShowDialog();
         }
-        private void grdTrans_Click(object sender, EventArgs e)
-        {
-
-        }
+       
 
         protected override void OnSizeChanged(EventArgs e)
         {
@@ -134,6 +131,11 @@ namespace Vendor
                     TransView.DeleteRow(TransView.FocusedRowHandle);
                 }
             }
+        }
+
+        private void TransView_GroupRowExpanded(object sender, DevExpress.XtraGrid.Views.Base.RowEventArgs e)
+        {
+
         }
 
        
