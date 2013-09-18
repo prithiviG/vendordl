@@ -25,7 +25,10 @@ namespace Vendor
         {
             this.ShowDialog();
         }
+        private void grdTrans_Click(object sender, EventArgs e)
+        {
 
+        }
         protected override void OnSizeChanged(EventArgs e)
         {
             if (!DesignMode && IsHandleCreated)
@@ -224,9 +227,6 @@ namespace Vendor
             frm.ShowDialog();
         }
 
-        private void grdTrans_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
