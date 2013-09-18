@@ -26,6 +26,10 @@ namespace Vendor
             frmM = _frmM;
             this.ShowDialog();
         }
+        private void grdTrans_Click(object sender, EventArgs e)
+        {
+
+        }
 
         protected override void OnSizeChanged(EventArgs e)
         {
@@ -131,6 +135,8 @@ namespace Vendor
                 }
             }
         }
+
+       
 
       }
 }
