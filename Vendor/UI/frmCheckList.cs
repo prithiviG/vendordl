@@ -21,7 +21,6 @@ namespace Vendor
             InitializeComponent();
             m_oCheckList = new Vendor.BusinessLayer.CheckListBL();
         }
-
         public void Execute()
         {
             this.ShowDialog();
@@ -223,6 +222,11 @@ namespace Vendor
             
             frmTypeSetup frm = new frmTypeSetup();
             frm.ShowDialog();
+        }
+
+        private void grdTrans_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
